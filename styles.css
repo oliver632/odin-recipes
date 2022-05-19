@@ -1,0 +1,19 @@
+h1 {
+    background-color: blue;
+}
+li {
+    color:wheat
+}
+
+a {
+    color: blue;
+}
+
+.start {
+    background-color: black;
+    color:chartreuse;
+    margin:5%
+}
+body {
+    font-family:'monospace', Courier, monospace;
+}
